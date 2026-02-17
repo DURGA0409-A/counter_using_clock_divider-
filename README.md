@@ -1,5 +1,5 @@
 # counter_using_clock_divider-
-EXPERIMENT – 3.B 4- bit Up/Down Counter and MOD-10 Counter using Clock Divider in FPGA
+# EXPERIMENT – 3.B 4- bit Up/Down Counter and MOD-10 Counter using Clock Divider in FPGA
 
 # Aim
 To design and simulate a 4-bit Up/Down Counter and MOD-10 Counter using Verilog HDL, and verify their functionality using a Clock Divider in FPGA (Vivado 2023.1).
